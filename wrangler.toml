@@ -6,7 +6,7 @@ compatibility_date = "2023-06-24"
 # Note: Use secrets to store sensitive data.
 # Docs: https://developers.cloudflare.com/workers/platform/environment-variables
 [vars]
-RESEND_API_KEY = "re_7vBAjFK4_P8aph8KrFEgkZNMUE9qzLZPS"
+RESEND_API_KEY = "re_RsrfLRpA_B8SwrAQM8xjwpVDT8TttSP2t"
 TO_EMAIL = "carloslambarricursos@gmail.com"
 
 # MY_VARIABLE = "production_value"

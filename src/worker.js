@@ -16,7 +16,7 @@ export default {
         'Authorization': `Bearer ${env.RESEND_API_KEY}`
       },
       body: JSON.stringify({
-        from: '<no-replay@cursosextensionuniversitarios.com>',
+        from: 'Nuevo mensaje <no-replay@cursosextensionuniversitarios.com>',
         to: env.TO_EMAIL,
         subject: `Nuevo mensaje de ${email}`,
         html
